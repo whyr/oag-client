@@ -21,7 +21,7 @@ public class OpenApiConfig {
     private Info apiInfo() {
 
         return new Info()
-                .title("OAG Client API")
+                .title("OAG Client REST API")
                 .description("API to get flights information from OAG")
                 .version("1.0.0")
                 .contact(apiContact());
