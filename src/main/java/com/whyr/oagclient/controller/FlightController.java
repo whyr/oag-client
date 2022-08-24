@@ -2,7 +2,7 @@ package com.whyr.oagclient.controller;
 
 import com.whyr.oagclient.model.dto.FlightRsDto;
 import com.whyr.oagclient.model.service.FlightInfoQueryParams;
-import com.whyr.oagclient.model.service.exception.BadRequestException;
+import com.whyr.oagclient.service.exception.BadRequestException;
 import com.whyr.oagclient.service.FlightService;
 import io.swagger.v3.oas.annotations.Parameter;
 import io.swagger.v3.oas.annotations.tags.Tag;

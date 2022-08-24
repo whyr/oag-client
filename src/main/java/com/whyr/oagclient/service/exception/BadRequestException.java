@@ -1,4 +1,4 @@
-package com.whyr.oagclient.model.service.exception;
+package com.whyr.oagclient.service.exception;
 
 import org.springframework.http.HttpStatus;
 

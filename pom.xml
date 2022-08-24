@@ -10,7 +10,7 @@
 		<relativePath/>
 	</parent>
 
-	<groupId>com.whyr.oagclient</groupId>
+	<groupId>com.whyr</groupId>
 	<artifactId>oag-client</artifactId>
 	<version>1.0.0</version>
 	<name>OAG Client API</name>

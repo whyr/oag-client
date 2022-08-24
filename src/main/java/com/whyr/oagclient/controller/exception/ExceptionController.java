@@ -1,7 +1,7 @@
 package com.whyr.oagclient.controller.exception;
 
 import com.whyr.oagclient.model.exception.ApiExceptionDto;
-import com.whyr.oagclient.model.service.exception.ServiceException;
+import com.whyr.oagclient.service.exception.ServiceException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
